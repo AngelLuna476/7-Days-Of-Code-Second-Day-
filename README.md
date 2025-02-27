@@ -13,6 +13,8 @@ Al final, el sistema mostrará el mensaje:
 
   "Hola [nombre], tienes [edad] años y ya estás aprendiendo [lenguaje]!" 
 
+Y al final hace una pregunta y te responderá con dos posibles respuestas al final.
+
 ---
 
 ## Marco Teórico:
