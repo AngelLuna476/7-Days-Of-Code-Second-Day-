@@ -1,6 +1,6 @@
 <h1 align="center">#7_Days_Of_Code_(2/7)</h1>
 
-<h1 align="center">*Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*</h1>
+  *Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
 2do día de la jornada de #7DaysOfCode, en el siguiente código presentado se desarrolla un programa en donde se piden al usuario responder 3 preguntas:
 
