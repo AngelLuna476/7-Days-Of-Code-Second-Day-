@@ -13,8 +13,6 @@ Al final, el sistema mostrará el mensaje:
 
   "Hola [nombre], tienes [edad] años y ya estás aprendiendo [lenguaje]!" 
 
-Observa que cada información entre [ ] es una de las respuestas dadas por la persona.
-
 ---
 
 ## Marco Teórico:
